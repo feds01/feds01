@@ -30,6 +30,7 @@ I am a fullstack engineer at [@octoenergy](https://github.com/octoenergy) based 
 ### 📫 Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-e-fedotov/)
+- [Email](mailto:alexander.fedotov.uk@gmail.com)
 
 <!-- <a href="https://www.linkedin.com/in/alexander-e-fedotov/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
