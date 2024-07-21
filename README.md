@@ -16,8 +16,8 @@ I am a fullstack engineer at [@octoenergy](https://github.com/octoenergy) based 
 
 - <img src="./images/icons/graphika.png" width="16px" height="16px"/> **Graphika** A toy graphing library written in pure <img src="./images/icons/ts.svg" width="12px" height="12px">. Functioning as a alternative to `Chart.js` and charting/graphing libraries.
 
-- <img src="./images/icons/durak.svg" width="16px" height="16px"/> **Durachok** - A online web-based game for playing Durak, a popular Russian card game, with
-  <img src="./images/icons/ts.svg" width="12px" height="12px"> + <img src="./images/icons/react.svg" width="12px" height="12px">, with some cool libraries, including `@tanstack/router`, `@tanstack/react-query`, `socket.io`.
+- <img src="./images/icons/durak.svg" width="16px" height="16px"/> **Durachok** - A online web-based game for playing Durak, a popular Russian card game. Built with
+  <img src="./images/icons/ts.svg" width="12px" height="12px"> + <img src="./images/icons/react.svg" width="12px" height="12px">, including some cool libraries: `@tanstack/router`, `@tanstack/react-query`, `socket.io`.
 
 - <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint** - A simple HTML/Django linter for checking the correctness of brackets in HTML files, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
 
