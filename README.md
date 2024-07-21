@@ -67,8 +67,8 @@ RQc=
 ______________________________________________________________________
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-tawny-theta-96.vercel.app/api?username=feds01&theme=dark&show_icons=true" />
+  <img align="center" width="50%" src="https://github-readme-stats-tawny-theta-96.vercel.app/api?username=feds01&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats-tawny-theta-96.vercel.app/api/top-langs/?username=feds01&hide=html&layout=compact&theme=dark" />
+  <img align="top" width="45%" src="https://github-readme-stats-tawny-theta-96.vercel.app/api/top-langs/?username=feds01&hide=html&layout=compact&theme=dark" />
 </a>
