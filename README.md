@@ -2,7 +2,7 @@
 
 ### ✨ About me
 
-I am a fullstack engineer at [@octoenergy](https://github.com/octoenergy) based in the UK. I am passionate about tooling and technologies which make engineering more sustainable, safe, and fun. In my spare time, I am on a mission to build a programming language and tooling ecosystem for **Hash** - a language I am building.
+I am a backend engineer at [@octoenergy](https://github.com/octoenergy) based in the UK. I am passionate about tooling and technologies which make engineering more sustainable, safe, and fun. In my spare time, I am on a mission to build a programming language and tooling ecosystem for **Hash** - a language I am building.
 
 ### 🔭 I’m currently working on
 
