@@ -27,6 +27,8 @@ I am a backend engineer at [@octoenergy](https://github.com/octoenergy) based in
 
 - **@tanstack/router** - A tiny, fast, and functional router for React with an emphasis on type-safety.
 
+- **Svelte** - Svelte is a reactive JavaScript framework that compiles to vanilla JavaScript, offering improved performance and a simpler development experience.
+
 ### 📫 Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-e-fedotov/)
