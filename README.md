@@ -10,7 +10,7 @@ I am a backend engineer at [@octoenergy](https://github.com/octoenergy) based in
 
 - <img src="./images/icons/hash.png" width="16px" height="16px"/> **Hash** programming language
 
-  - [`compiler`](https://github.com/hash-org/hashsc) - The core Hash compiler `hashc` written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
+  - [`compiler`](https://github.com/hash-org/hashc) - The core Hash compiler `hashc` written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
   - [`spec`](https://github.com/hash-org/spec) - The Hash language specification, written in Sphinx and <img src="./images/icons/python.svg" width="12px" height="12px">. Read all about it [here](https://hash-org.github.io/spec/)!
   - [`metrics`](https://github.com/hash-org/metrics) - The Hash compiler metrics collection system, written in <img src="./images/icons/python.svg" width="12px" height="12px">.
 
