@@ -21,13 +21,13 @@ I am a backend engineer at [@octoenergy](https://github.com/octoenergy) based in
 
 - <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint** - A simple HTML/Django linter for checking the correctness of brackets in HTML files, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
 
+- <img src="./images/icons/teamsearch.svg" width="16px" height="16px"> **teamsearch** - A tool to look for and in files via `CODEOWNERS`, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
+
 ### 🌱 I’m currently learning
 
 - **tRPC** - tRPC for end-to-end typesafety in API. Use with `zod` for schema validation.
 
 - **@tanstack/router** - A tiny, fast, and functional router for React with an emphasis on type-safety.
-
-- **Svelte** - Svelte is a reactive JavaScript framework that compiles to vanilla JavaScript, offering improved performance and a simpler development experience.
 
 ### 📫 Contact me
 
