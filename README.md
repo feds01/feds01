@@ -2,9 +2,9 @@
 
 ### ✨ About me
 
-I am a fullstack engineer at [@userledio](https://github.com/userledio) based in the UK. I am passionate about tooling and technologies which make engineering more sustainable, safe, and fun. In my spare time, I am on a mission to build a programming language and tooling ecosystem for **Hash** - a language I am building.
+I am a senior product engineer at [@userledio](https://github.com/userledio) based in the UK. I'm passionate about infrastructure, developer experience, system design, and agentic technologies — building tools and systems that make engineering more sustainable, safe, and fun. In my spare time, I'm building **Hash** — a programming language and tooling ecosystem.
 
-### 🔭 I’m currently working on
+### 🔭 I'm currently working on
 
 <!-- - [x] [**feds01.github.io**](https://feds01.github.io) - My personal website -->
 
@@ -23,11 +23,19 @@ I am a fullstack engineer at [@userledio](https://github.com/userledio) based in
 
 - <img src="./images/icons/teamsearch.svg" width="16px" height="16px"> **teamsearch** - A tool to look for and in files via `CODEOWNERS`, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
 
-### 🌱 I’m currently learning
+### 🧰 Developer experience tooling
 
-- **tRPC** - tRPC for end-to-end typesafety in API. Use with `zod` for schema validation.
+At work, I've built internal tools to improve developer workflows:
 
-- **@tanstack/router** - A tiny, fast, and functional router for React with an emphasis on type-safety.
+- **bracketlint** and **teamsearch** originated from DX work at Kraken Technologies
+- Infrastructure, CI/CD pipelines, and analytics systems at Userled
+- Cataloguing, contracts, and order management systems at Kraken Technologies
+
+### 🌱 I'm currently exploring
+
+- **Agentic technologies** - LLM-powered agents, tool use, and autonomous workflows (Vercel AI SDK, Mastra)
+- **Vector databases** - Embeddings, similarity search, and RAG pipelines
+- **Infrastructure as code** - Terraform, CI/CD design, and cloud-native patterns
 
 ### 📫 Contact me
 
@@ -40,7 +48,7 @@ I am a fullstack engineer at [@userledio](https://github.com/userledio) based in
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,express,graphql,nodejs,angular,rust,c,python,django,mongodb,postgres,markdown,latex,dotnet,java,bash,aws,heroku,git,kubernetes,docker,grafana" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,python,react,express,graphql,nodejs,postgres,mongodb,redis,aws,gcp,terraform,docker,kubernetes,grafana,git,bash,markdown,latex" />
   </a>
 </details>
 
