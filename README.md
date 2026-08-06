@@ -28,8 +28,6 @@ I am a senior product engineer at [@userledio](https://github.com/userledio) bas
 At work, I've built internal tools to improve developer workflows:
 
 - **bracketlint** and **teamsearch** originated from DX work at Kraken Technologies
-- Infrastructure, CI/CD pipelines, and analytics systems at Userled
-- Cataloguing, contracts, and order management systems at Kraken Technologies
 
 ### 🌱 I'm currently exploring
 
