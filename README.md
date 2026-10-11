@@ -14,7 +14,7 @@ I'm a staff engineer at [@userledio](https://github.com/userledio), based in the
   - [`spec`](https://github.com/hash-org/spec): the Hash language specification, written in Sphinx and <img src="./images/icons/python.svg" width="12px" height="12px">. Read all about it [here](https://hash-org.github.io/spec/)!
   - [`metrics`](https://github.com/hash-org/metrics): the Hash compiler metrics collection system, written in <img src="./images/icons/python.svg" width="12px" height="12px">.
 
-- **Zenith**: an experimental architecture linter for TypeScript and JavaScript monorepos, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. It enforces rules about which parts of a codebase may import which, such as layers and forbidden dependencies. Work in progress.
+- 🧭 **Zenith**: an experimental architecture linter for TypeScript and JavaScript monorepos, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. It enforces rules about which parts of a codebase may import which, such as layers and forbidden dependencies. Work in progress.
 
 - <img src="./images/icons/graphika.png" width="16px" height="16px"/> **Graphika**: a toy graphing library written in pure <img src="./images/icons/ts.svg" width="12px" height="12px">, as an alternative to `Chart.js` and other charting libraries.
 
