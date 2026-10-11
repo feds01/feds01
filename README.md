@@ -14,14 +14,22 @@ I'm a staff engineer at [@userledio](https://github.com/userledio), based in the
   - [`spec`](https://github.com/hash-org/spec): the Hash language specification, written in Sphinx and <img src="./images/icons/python.svg" width="12px" height="12px">. Read all about it [here](https://hash-org.github.io/spec/)!
   - [`metrics`](https://github.com/hash-org/metrics): the Hash compiler metrics collection system, written in <img src="./images/icons/python.svg" width="12px" height="12px">.
 
+- **Zenith**: an experimental architecture linter for TypeScript and JavaScript monorepos, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. It enforces rules about which parts of a codebase may import which, such as layers and forbidden dependencies. Work in progress.
+
 - <img src="./images/icons/graphika.png" width="16px" height="16px"/> **Graphika**: a toy graphing library written in pure <img src="./images/icons/ts.svg" width="12px" height="12px">, as an alternative to `Chart.js` and other charting libraries.
 
 - <img src="./images/icons/durak.svg" width="16px" height="16px"/> **Durachok**: an online game for playing Durak, a popular Russian card game. Built with
   <img src="./images/icons/ts.svg" width="12px" height="12px"> + <img src="./images/icons/react.svg" width="12px" height="12px">, including some cool libraries: `@tanstack/router`, `@tanstack/react-query`, `socket.io`.
 
-- <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint**: a simple HTML/Django template linter that checks brackets are correctly matched, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. Built on the side while researching better tooling at Kraken Technologies.
+- <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint**: a simple HTML/Django template linter that checks brackets are correctly matched, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
 
-- <img src="./images/icons/teamsearch.svg" width="16px" height="16px"> **teamsearch**: a `CODEOWNERS`-aware code search tool, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. Also built while researching better tooling at Kraken Technologies.
+- <img src="./images/icons/teamsearch.svg" width="16px" height="16px"> **teamsearch**: a `CODEOWNERS`-aware code search tool, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
+
+### 🧰 Developer experience tooling
+
+At work, I've built internal tools to improve developer workflows:
+
+- **bracketlint** and **teamsearch** originated from DX work at Kraken Technologies
 
 ### 🌱 I'm currently exploring
 
