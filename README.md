@@ -27,9 +27,12 @@ I'm a staff engineer at [@userledio](https://github.com/userledio), based in the
 
 ### 🧰 Developer experience tooling
 
-At work, I've built internal tools to improve developer workflows:
+I lead developer experience at [@userledio](https://github.com/userledio), and I build tools on the side to make engineering faster and safer:
 
-- **bracketlint** and **teamsearch** originated from DX work at Kraken Technologies
+- **Zenith**: an architecture linter that enforces import boundaries in TypeScript and JavaScript monorepos (work in progress)
+- **[prbot](https://github.com/feds01/prbot)**: a Slack and Discord bot that reacts to GitHub PR links with emoji showing each PR's live status
+- **[teamsearch](https://github.com/feds01/teamsearch)**: a `CODEOWNERS`-aware code search tool
+- **[bracketlint](https://github.com/feds01/bracketlint)**: an HTML/Django template linter that checks brackets are correctly matched
 
 ### 🌱 I'm currently exploring
 
