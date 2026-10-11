@@ -2,7 +2,7 @@
 
 ### ✨ About me
 
-I am a senior product engineer at [@userledio](https://github.com/userledio) based in the UK. I'm passionate about infrastructure, developer experience, system design, and agentic technologies — building tools and systems that make engineering more sustainable, safe, and fun. In my spare time, I'm building **Hash** — a programming language and tooling ecosystem.
+I'm a staff engineer at [@userledio](https://github.com/userledio), based in the UK, where I lead AI initiatives across the product. I'm passionate about infrastructure, developer experience, system design and agentic technologies, and about building tools and systems that make engineering more sustainable, safe and fun. In my spare time, I'm building **Hash**, a programming language and tooling ecosystem.
 
 ### 🔭 I'm currently working on
 
@@ -10,30 +10,24 @@ I am a senior product engineer at [@userledio](https://github.com/userledio) bas
 
 - <img src="./images/icons/hash.png" width="16px" height="16px"/> **Hash** programming language
 
-  - [`compiler`](https://github.com/hash-org/hashc) - The core Hash compiler `hashc` written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
-  - [`spec`](https://github.com/hash-org/spec) - The Hash language specification, written in Sphinx and <img src="./images/icons/python.svg" width="12px" height="12px">. Read all about it [here](https://hash-org.github.io/spec/)!
-  - [`metrics`](https://github.com/hash-org/metrics) - The Hash compiler metrics collection system, written in <img src="./images/icons/python.svg" width="12px" height="12px">.
+  - [`compiler`](https://github.com/hash-org/hashc): the core Hash compiler, `hashc`, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
+  - [`spec`](https://github.com/hash-org/spec): the Hash language specification, written in Sphinx and <img src="./images/icons/python.svg" width="12px" height="12px">. Read all about it [here](https://hash-org.github.io/spec/)!
+  - [`metrics`](https://github.com/hash-org/metrics): the Hash compiler metrics collection system, written in <img src="./images/icons/python.svg" width="12px" height="12px">.
 
-- <img src="./images/icons/graphika.png" width="16px" height="16px"/> **Graphika** A toy graphing library written in pure <img src="./images/icons/ts.svg" width="12px" height="12px">. Functioning as a alternative to `Chart.js` and charting/graphing libraries.
+- <img src="./images/icons/graphika.png" width="16px" height="16px"/> **Graphika**: a toy graphing library written in pure <img src="./images/icons/ts.svg" width="12px" height="12px">, as an alternative to `Chart.js` and other charting libraries.
 
-- <img src="./images/icons/durak.svg" width="16px" height="16px"/> **Durachok** - A online web-based game for playing Durak, a popular Russian card game. Built with
+- <img src="./images/icons/durak.svg" width="16px" height="16px"/> **Durachok**: an online game for playing Durak, a popular Russian card game. Built with
   <img src="./images/icons/ts.svg" width="12px" height="12px"> + <img src="./images/icons/react.svg" width="12px" height="12px">, including some cool libraries: `@tanstack/router`, `@tanstack/react-query`, `socket.io`.
 
-- <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint** - A simple HTML/Django linter for checking the correctness of brackets in HTML files, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
+- <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint**: a simple HTML/Django template linter that checks brackets are correctly matched, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. Built on the side while researching better tooling at Kraken Technologies.
 
-- <img src="./images/icons/teamsearch.svg" width="16px" height="16px"> **teamsearch** - A tool to look for and in files via `CODEOWNERS`, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
-
-### 🧰 Developer experience tooling
-
-At work, I've built internal tools to improve developer workflows:
-
-- **bracketlint** and **teamsearch** originated from DX work at Kraken Technologies
+- <img src="./images/icons/teamsearch.svg" width="16px" height="16px"> **teamsearch**: a `CODEOWNERS`-aware code search tool, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. Also built while researching better tooling at Kraken Technologies.
 
 ### 🌱 I'm currently exploring
 
-- **Agentic technologies** - LLM-powered agents, tool use, and autonomous workflows (Vercel AI SDK, Mastra)
-- **Vector databases** - Embeddings, similarity search, and RAG pipelines
-- **Infrastructure as code** - Terraform, CI/CD design, and cloud-native patterns
+- **Agentic AI**: LLM agents, tool calling, evals and MCP servers (Mastra, Vercel AI SDK)
+- **Retrieval**: embeddings, vector search and RAG pipelines
+- **Infrastructure as code**: Terraform, CI/CD design and cloud-native patterns
 
 ### 📫 Contact me
 
