@@ -2,11 +2,18 @@
 
 ### ✨ About me
 
-I'm a staff engineer at [@userledio](https://github.com/userledio), based in the UK, where I lead AI initiatives across the product. I'm passionate about infrastructure, developer experience, system design and agentic technologies, and about building tools and systems that make engineering more sustainable, safe and fun. In my spare time, I'm building **Hash**, a programming language and tooling ecosystem.
+I'm a staff engineer at [@userledio](https://github.com/userledio), based in the UK, where I lead AI initiatives across the product. I'm passionate about infrastructure, developer experience, system design and agentic technologies, and about building tools and systems that make engineering more sustainable, safe and fun. In my spare time, I build developer tools such as **Zenith** and **Bracketlint**, and work on **Hash**, a programming language and tooling ecosystem.
 
 ### 🔭 I'm currently working on
 
 <!-- - [x] [**feds01.github.io**](https://feds01.github.io) - My personal website -->
+
+- <img src="./images/icons/zenith.svg" width="16px" height="16px"/> [**Zenith**](https://github.com/feds01/zenith): a language-agnostic architecture linter for monorepos, built for humans and agents and written in <img src="./images/icons/rust.svg" width="12px" height="12px">. You declare contracts such as layers, forbidden dependencies and public entry points, and `zenith check` points at the import, or chain of imports, that breaks one. Read the user guide [here](https://feds01.github.io/zenith/)!
+
+- <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint**: a linter and formatter for Jinja, Nunjucks, Django, Twig and Liquid templates, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. Install it with npm, Homebrew or a prebuilt binary.
+
+- <img src="./images/icons/durak.svg" width="16px" height="16px"/> **Durachok**: an online game for playing Durak, a popular Russian card game. Built with
+  <img src="./images/icons/ts.svg" width="12px" height="12px"> + <img src="./images/icons/react.svg" width="12px" height="12px">, including some cool libraries: `@tanstack/router`, `@tanstack/react-query`, `socket.io`.
 
 - <img src="./images/icons/hash.png" width="16px" height="16px"/> **Hash** programming language
 
@@ -14,31 +21,24 @@ I'm a staff engineer at [@userledio](https://github.com/userledio), based in the
   - [`spec`](https://github.com/hash-org/spec): the Hash language specification, written in Sphinx and <img src="./images/icons/python.svg" width="12px" height="12px">. Read all about it [here](https://hash-org.github.io/spec/)!
   - [`metrics`](https://github.com/hash-org/metrics): the Hash compiler metrics collection system, written in <img src="./images/icons/python.svg" width="12px" height="12px">.
 
-- 🧭 **Zenith**: an experimental architecture linter for TypeScript and JavaScript monorepos, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. It enforces rules about which parts of a codebase may import which, such as layers and forbidden dependencies. Work in progress.
-
 - <img src="./images/icons/graphika.png" width="16px" height="16px"/> **Graphika**: a toy graphing library written in pure <img src="./images/icons/ts.svg" width="12px" height="12px">, as an alternative to `Chart.js` and other charting libraries.
 
-- <img src="./images/icons/durak.svg" width="16px" height="16px"/> **Durachok**: an online game for playing Durak, a popular Russian card game. Built with
-  <img src="./images/icons/ts.svg" width="12px" height="12px"> + <img src="./images/icons/react.svg" width="12px" height="12px">, including some cool libraries: `@tanstack/router`, `@tanstack/react-query`, `socket.io`.
-
-- <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint**: a simple HTML/Django template linter that checks brackets are correctly matched, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
-
-- <img src="./images/icons/teamsearch.svg" width="16px" height="16px"> **teamsearch**: a `CODEOWNERS`-aware code search tool, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
+- <img src="./images/icons/teamsearch.svg" width="16px" height="16px"> **teamsearch**: a `CODEOWNERS`-aware code search tool, written in <img src="./images/icons/rust.svg" width="12px" height="12px"> on top of ripgrep's search libraries. Search only the code a team owns, find out who owns a file, or list the files nobody owns.
 
 ### 🧰 Developer experience tooling
 
 I lead developer experience at [@userledio](https://github.com/userledio), and I build tools on the side to make engineering faster and safer:
 
-- **Zenith**: an architecture linter that enforces import boundaries in TypeScript and JavaScript monorepos (work in progress)
+- **[Zenith](https://github.com/feds01/zenith)**: a language-agnostic architecture linter that enforces import boundaries in monorepos
 - **[prbot](https://github.com/feds01/prbot)**: a Slack and Discord bot that reacts to GitHub PR links with emoji showing each PR's live status
-- **[teamsearch](https://github.com/feds01/teamsearch)**: a `CODEOWNERS`-aware code search tool
-- **[bracketlint](https://github.com/feds01/bracketlint)**: an HTML/Django template linter that checks brackets are correctly matched
+- **[teamsearch](https://github.com/feds01/teamsearch)**: a `CODEOWNERS`-aware code search tool that finds a team's code, a file's owners and unowned files
+- **[bracketlint](https://github.com/feds01/bracketlint)**: a linter and formatter for Jinja, Nunjucks, Django, Twig and Liquid templates
 
 ### 🌱 I'm currently exploring
 
-- **Agentic AI**: LLM agents, tool calling, evals and MCP servers (Mastra, Vercel AI SDK)
-- **Retrieval**: embeddings, vector search and RAG pipelines
-- **Infrastructure as code**: Terraform, CI/CD design and cloud-native patterns
+- **Agent-native tooling**: designing developer tools, CLIs and linters that agents can drive as well as humans
+- **Training and inference pipelines**: the pipelines that train and serve the models behind agents
+- **Electronics**: circuit design and simulation
 
 ### 📫 Contact me
 
