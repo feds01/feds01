@@ -14,7 +14,7 @@ I'm a staff engineer at [@userledio](https://github.com/userledio), based in the
   - [`spec`](https://github.com/hash-org/spec): the Hash language specification, written in Sphinx and <img src="./images/icons/python.svg" width="12px" height="12px">. Read all about it [here](https://hash-org.github.io/spec/)!
   - [`metrics`](https://github.com/hash-org/metrics): the Hash compiler metrics collection system, written in <img src="./images/icons/python.svg" width="12px" height="12px">.
 
-- <img src="./images/icons/zenith.svg" width="16px" height="16px"/> **Zenith**: a language-agnostic architecture linter for monorepos, built for humans and agents and written in <img src="./images/icons/rust.svg" width="12px" height="12px">. You declare contracts such as layers, forbidden dependencies and public entry points, and `zenith check` points at the import, or chain of imports, that breaks one.
+- <img src="./images/icons/zenith.svg" width="16px" height="16px"/> [**Zenith**](https://github.com/feds01/zenith): a language-agnostic architecture linter for monorepos, built for humans and agents and written in <img src="./images/icons/rust.svg" width="12px" height="12px">. You declare contracts such as layers, forbidden dependencies and public entry points, and `zenith check` points at the import, or chain of imports, that breaks one. Read the user guide [here](https://feds01.github.io/zenith/)!
 
 - <img src="./images/icons/graphika.png" width="16px" height="16px"/> **Graphika**: a toy graphing library written in pure <img src="./images/icons/ts.svg" width="12px" height="12px">, as an alternative to `Chart.js` and other charting libraries.
 
@@ -29,7 +29,7 @@ I'm a staff engineer at [@userledio](https://github.com/userledio), based in the
 
 I lead developer experience at [@userledio](https://github.com/userledio), and I build tools on the side to make engineering faster and safer:
 
-- **Zenith**: a language-agnostic architecture linter that enforces import boundaries in monorepos
+- **[Zenith](https://github.com/feds01/zenith)**: a language-agnostic architecture linter that enforces import boundaries in monorepos
 - **[prbot](https://github.com/feds01/prbot)**: a Slack and Discord bot that reacts to GitHub PR links with emoji showing each PR's live status
 - **[teamsearch](https://github.com/feds01/teamsearch)**: a `CODEOWNERS`-aware code search tool
 - **[bracketlint](https://github.com/feds01/bracketlint)**: an HTML/Django template linter that checks brackets are correctly matched
