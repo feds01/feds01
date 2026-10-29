@@ -2,7 +2,7 @@
 
 ### ✨ About me
 
-I'm a staff engineer at [@userledio](https://github.com/userledio), based in the UK, where I lead AI initiatives across the product. I'm passionate about infrastructure, developer experience, system design and agentic technologies, and about building tools and systems that make engineering more sustainable, safe and fun. In my spare time, I'm building **Hash**, a programming language and tooling ecosystem.
+I'm a staff engineer at [@userledio](https://github.com/userledio), based in the UK, where I lead AI initiatives across the product. I'm passionate about infrastructure, developer experience, system design and agentic technologies, and about building tools and systems that make engineering more sustainable, safe and fun. In my spare time, I build developer tools such as **Zenith** and **Bracketlint**, and work on **Hash**, a programming language and tooling ecosystem.
 
 ### 🔭 I'm currently working on
 
