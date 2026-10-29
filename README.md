@@ -10,7 +10,7 @@ I'm a staff engineer at [@userledio](https://github.com/userledio), based in the
 
 - <img src="./images/icons/zenith.svg" width="16px" height="16px"/> [**Zenith**](https://github.com/feds01/zenith): a language-agnostic architecture linter for monorepos, built for humans and agents and written in <img src="./images/icons/rust.svg" width="12px" height="12px">. You declare contracts such as layers, forbidden dependencies and public entry points, and `zenith check` points at the import, or chain of imports, that breaks one. Read the user guide [here](https://feds01.github.io/zenith/)!
 
-- <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint**: a simple HTML/Django template linter that checks brackets are correctly matched, written in <img src="./images/icons/rust.svg" width="12px" height="12px">.
+- <img src="./images/icons/brackets.svg" width="16px" height="16px"> **Bracketlint**: a linter and formatter for Jinja, Nunjucks, Django, Twig and Liquid templates, written in <img src="./images/icons/rust.svg" width="12px" height="12px">. Install it with npm, Homebrew or a prebuilt binary.
 
 - <img src="./images/icons/durak.svg" width="16px" height="16px"/> **Durachok**: an online game for playing Durak, a popular Russian card game. Built with
   <img src="./images/icons/ts.svg" width="12px" height="12px"> + <img src="./images/icons/react.svg" width="12px" height="12px">, including some cool libraries: `@tanstack/router`, `@tanstack/react-query`, `socket.io`.
@@ -32,7 +32,7 @@ I lead developer experience at [@userledio](https://github.com/userledio), and I
 - **[Zenith](https://github.com/feds01/zenith)**: a language-agnostic architecture linter that enforces import boundaries in monorepos
 - **[prbot](https://github.com/feds01/prbot)**: a Slack and Discord bot that reacts to GitHub PR links with emoji showing each PR's live status
 - **[teamsearch](https://github.com/feds01/teamsearch)**: a `CODEOWNERS`-aware code search tool
-- **[bracketlint](https://github.com/feds01/bracketlint)**: an HTML/Django template linter that checks brackets are correctly matched
+- **[bracketlint](https://github.com/feds01/bracketlint)**: a linter and formatter for Jinja, Nunjucks, Django, Twig and Liquid templates
 
 ### 🌱 I'm currently exploring
 
