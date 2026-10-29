@@ -36,9 +36,9 @@ I lead developer experience at [@userledio](https://github.com/userledio), and I
 
 ### 🌱 I'm currently exploring
 
-- **Agentic AI**: LLM agents, tool calling, evals and MCP servers (Mastra, Vercel AI SDK)
-- **Retrieval**: embeddings, vector search and RAG pipelines
-- **Infrastructure as code**: Terraform, CI/CD design and cloud-native patterns
+- **Agent-native tooling**: designing developer tools, CLIs and linters that agents can drive as well as humans
+- **Training and inference pipelines**: the pipelines that train and serve the models behind agents
+- **Electronics**: circuit design and simulation
 
 ### 📫 Contact me
 
